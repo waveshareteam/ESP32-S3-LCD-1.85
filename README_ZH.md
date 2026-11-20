@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.net/shop/ESP32-S3-LCD-1.85.htm">🛒 产品</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.85/releases">📦 固件</a> &middot;
+    <a href="firmware/">📦 固件</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.net/ESP32-S3-LCD-1.85/">📖 文档</a>
   </p>
@@ -31,6 +31,8 @@ ESP32-S3-LCD-1.85 集成圆形 LCD、Wi-Fi、低功耗蓝牙、音频和板载�
 | 存储卡 | microSD 卡槽 |
 
 ## 📦 快速开始
+
+下载板载功能测试固件及查看烧录步骤，请前往 [`firmware/`](firmware/)。
 
 1. 使用 USB 数据线将开发板连接到电脑。
 2. 按 [ESP-IDF 示例](examples/esp-idf/ESP32-S3-LCD-1.85-Test/README_ZH.md) 的说明编译、烧录。

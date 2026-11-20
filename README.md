@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.net/shop/ESP32-S3-LCD-1.85.htm">🛒 Product</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.85/releases">📦 Firmware</a> &middot;
+    <a href="firmware/">📦 Firmware</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.com/ESP32-S3-LCD-1.85">📖 Documentation</a>
   </p>
@@ -31,6 +31,8 @@ ESP32-S3-LCD-1.85 combines a round LCD with Wi-Fi, Bluetooth LE, audio and onboa
 | Storage | microSD card slot |
 
 ## 📦 Quick Start
+
+See [`firmware/`](firmware/) for the bundled test firmware and flashing instructions.
 
 1. Connect the board to your computer with a USB data cable.
 2. Follow the [ESP-IDF example](examples/esp-idf/ESP32-S3-LCD-1.85-Test/) to build and flash it.
